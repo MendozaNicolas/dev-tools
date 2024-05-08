@@ -25,6 +25,7 @@ It's a great way to learn.
 * [**Heroicons**: _Hermosos íconos SVG hechos a mano por los creadores de Tailwind CSS._](https://heroicons.com/)
 * [**Flowbite Icons** _Comience con una colección de 521 íconos SVG gratuitos y de código abierto compatibles con Flowbite y Tailwind CSS basados en estilos sólidos y de contorno con soporte para React (JSX) y Figma._](https://flowbite.com/icons/)
 * [**Free Icons**: _This repository provides a collection of over 23,000 high-quality icons that you can use freely in your design projects._](https://free-icons.github.io/free-icons/)
+* [**Huge Icons**: _Biblioteca de íconos de primer nivel diseñada por expertos. Diseñe y cree con Hugeicons Pro, la hermosa biblioteca de íconos para la innovación._](https://hugeicons.com/)
 
 #### Sin categoria
 
